@@ -5,11 +5,17 @@
 ## Chapter 01 협력하는 객체들의 공동체
 
 <ul>
-    <li><a href="src/협력하는 객체들의 공동체.md">객체의 협력, 역할, 책임</a></li>
+    <li><a href="src/협력하는 객체들의 공동체.md">협력하는 객체들의 공동체</a></li>
 </ul>
 
 ## Chapter 02 이상한 나라의 객체
 
 <ul>
-    <li><a href="src/이상한 나라의 객체.md">객체의 상태, 행동, 식별자</a></li>
+    <li><a href="src/이상한 나라의 객체.md">이상한 나라의 객체</a></li>
+</ul>
+
+## Chapter 03 타입과 추상화
+
+<ul>
+    <li><a href="src/타입과 추상화.md">타입과 추상화</a></li>
 </ul>
