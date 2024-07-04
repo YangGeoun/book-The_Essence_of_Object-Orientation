@@ -25,3 +25,9 @@
 <ul>
     <li><a href="docs/역할책임협력.md">역할, 책임, 협력</a></li>
 </ul>
+
+## Chapter 05 책임과 메시지 (중요 파트)
+
+<ul>
+    <li><a href="docs/책임과 메시지.md">책임과 메시지</a></li>
+</ul>
